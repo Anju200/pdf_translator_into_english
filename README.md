@@ -39,10 +39,8 @@ This project is a web application built with [Panel](https://panel.holoviz.org/)
     Create a `.env` file in the project root with your Gemini API key:
 
     ```
-    GEMINI_API_KEY=your_gemini_api_key_here
+    GEMINI_API_KEY=AIzaSyCciT6mONjgmhvk9uyGnwNXWY3NS0ZYCs4
     ```
-
-    **Do NOT commit your `.env` file to GitHub.**
 
 ## Usage
 
