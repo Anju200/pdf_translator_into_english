@@ -67,9 +67,9 @@ You can deploy this app to [Render](https://render.com), [Railway](https://railw
 ## File Structure
 
 ```
-code.py           # Main Panel app
+code.py              # Main Panel app
 requirements.txt     # Python dependencies
-.env                 # Your Gemini API key (not tracked by git)
+.env                 # Your Gemini API key
 README.md            # This file
 ```
 
