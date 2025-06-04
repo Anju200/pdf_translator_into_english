@@ -1,0 +1,6 @@
+panel
+PyPDF2
+fpdf
+google-generativeai
+python-dotenv
+pillow
